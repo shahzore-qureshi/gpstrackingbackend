@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  imei: 1
+  mac: MyString
+  lat: 1.5
+  long: 1.5
+
+two:
+  imei: 1
+  mac: MyString
+  lat: 1.5
+  long: 1.5
